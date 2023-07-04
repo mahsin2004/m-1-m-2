@@ -1,0 +1,45 @@
+* {
+  max-width: max-content;
+  margin: 0;
+}
+
+/* Applying Box Module */
+
+.inline {
+  margin: 30px;
+  background-image: url(img/mountain.jpg);
+  background-size: cover;
+}
+
+.p1 {
+  text-align: justify;
+  padding: 10px;
+  margin: 10px;
+  border: 10px solid rgb(255, 167, 167);
+}
+
+.p2 {
+  text-align: justify;
+  padding: 10px;
+  margin: 10px;
+  border: 10px solid rgb(255, 167, 167);
+  border-bottom-style: dashed;
+}
+
+.p3 {
+  text-align: justify;
+  padding: 10px;
+  margin: 10px;
+  border: 10px solid rgb(255, 167, 167);
+}
+
+  /* Applying Background Properties like Position, Image, Color etc.  */
+ 
+.position {
+  max-width: 1400px;
+  height: 1000px;
+  background-color: antiquewhite;
+  background-image: url(../img/tree.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
